@@ -1,6 +1,6 @@
 # Teamwork (Laravel 5 Package)
 
-[![Latest Version](https://img.shields.io/packagist/v/oliuz/teamwork.svg)](https://github.com/oliuz/teamwork/releases)
+[![Latest Version](https://img.shields.io/packagist/v/slavmin/teamwork.svg)](https://github.com/slavmin/teamwork/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://travis-ci.org/mpociot/teamwork.svg)](https://travis-ci.org/mpociot/teamwork)
 [![codecov.io](https://codecov.io/github/mpociot/teamwork/coverage.svg?branch=master)](https://codecov.io/github/mpociot/teamwork?branch=master)
@@ -35,11 +35,11 @@ Teamwork is the fastest and easiest method to add a User / Team association with
 
 ## For Laravel 5.7|5.8
 
-    "oliuz/teamwork": "^5.3"
+    "slavmin/teamwork": "^5.3"
 
 Add the version you need to your composer.json. Then run `composer install` or `composer update`.
 
-(or run `composer require oliuz/teamwork` if you prefere that)
+(or run `composer require slavmin/teamwork` if you prefere that)
 
 The `Teamwork` Facade will be installed automatically within the Service Provider.
 
